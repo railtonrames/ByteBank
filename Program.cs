@@ -56,7 +56,9 @@ namespace ByteBank
             iracema.Nome = "Iracema";
 
             Desenvolvedor railton = new Desenvolvedor("000.000.000-05");
-            railton.Nome = "Railton Rames";
+
+            railton.Nome = "Railton Rames Sousa";
+
 
             gerenciadorBonificacao.Registrar(railton);
             gerenciadorBonificacao.Registrar(iracema);
