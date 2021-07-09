@@ -44,7 +44,7 @@ namespace ByteBank
             GerenciadorBonificacao gerenciadorBonificacao = new GerenciadorBonificacao();
 
             Funcionario nicolas = new Designer("000.000.000-01");
-            nicolas.Nome = "Nicolas";
+            nicolas.Nome = "Nicolas Cage";
 
             Funcionario francisco = new Diretor("000.000.000-02");
             francisco.Nome = "Francisco";
